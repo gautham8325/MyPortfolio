@@ -239,6 +239,14 @@ export const Experience = () => {
   ];
 
   const experience = [
+     {
+      title: "Prompt Engineer Intern,Outlier AI",
+      date: "December 2024 – Present",
+      description: `
+       Contributed to the design and optimization of AI models for Outlier and Outlier Playground, ensuring enhanced user engagement and functionality.
+       Engineered and iteratively refined AI prompts to boost generative model accuracy and relevance, achieving significant performance improvements.
+       Conducted data-driven analysis and A/B testing to evaluate and optimize prompt effectiveness, aligning model outputs with user and business objectives.`,
+    },
     {
       title: "Research Intern, SRM University AP",
       date: "June 3rd 2024 – July 31st 2024",
