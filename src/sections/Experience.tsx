@@ -129,25 +129,30 @@ export const Experience = () => {
   ];
 
   const experience = [
+  {
+      title: "Prompt Engineer Intern,Outlier AI",
+      date: "December 2024 – Present",
+      description: `
+       Contributed to the design and optimization of AI models for Outlier and Outlier Playground, ensuring enhanced user engagement and functionality.
+       Engineered and iteratively refined AI prompts to boost generative model accuracy and relevance, achieving significant performance improvements.
+       Conducted data-driven analysis and A/B testing to evaluate and optimize prompt effectiveness, aligning model outputs with user and business objectives.`,
+    },
     {
       title: "Research Intern, SRM University AP",
-      date: "August 2024 – Present",
+      date: "June 2024 – August 2024",
       description: `
-        • Developing and maintaining web applications using NestJS, MERN stack, and FastAPI 
-          to ensure high performance and scalability.
-        • Collaborating with cross-functional teams to design, implement, and test new features.
-        • Troubleshooting and resolving technical issues while contributing to code reviews.`,
+        Developing and maintaining web application using NestJS, MERN stack, and FastAPI to ensure high performance and scalability.
+        Contributed to the E15 Project, which focused on designing an integrated tech platform to provide farmers with real-time market updates, price trends, and innovative techniques to enhance agricultural profitability.
+        Worked collaboratively within a team under the mentorship of the Head of the Directorate of Entrepreneurship  and Innovation.`,
     },
     {
       title: "AI/ML Deep Learning Intern, IBM Edunet",
-      date: "April 2024 – July 2024",
+      date: "June 2024 – August 2024",
       description: `
-        • Developed deep learning models using TensorFlow and PyTorch to solve complex problems 
-          in computer vision and natural language processing.
-        • Built end-to-end machine learning pipelines, including data collection, preprocessing, 
-          model training, and deployment.
-        • Researched and implemented cutting-edge AI techniques for NLP and computer vision in 
-          the education sector.`,
+      Developed deep learning models using frameworks like TensorFlow and PyTorch to solve complex problems in computer vision and natural language processing
+      Built end-to-end machine learning pipelines, including data collection, preprocessing, model training, and deployment for real-world applications.
+      Researched and implemented cutting-edge AI techniques, such as natural language processing for text analysis and computer vision for image recognition, to address complex challenges in the education sector.
+       `,
     },
   ];
 
