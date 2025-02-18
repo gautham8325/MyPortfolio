@@ -138,14 +138,6 @@ export const Experience = () => {
        Conducted data-driven analysis and A/B testing to evaluate and optimize prompt effectiveness, aligning model outputs with user and business objectives.`,
     },
     {
-      title: "Research Intern, SRM University AP",
-      date: "June 2024 – August 2024",
-      description: `
-        Developing and maintaining web application using NestJS, MERN stack, and FastAPI to ensure high performance and scalability.
-        Contributed to the E15 Project, which focused on designing an integrated tech platform to provide farmers with real-time market updates, price trends, and innovative techniques to enhance agricultural profitability.
-        Worked collaboratively within a team under the mentorship of the Head of the Directorate of Entrepreneurship  and Innovation.`,
-    },
-    {
       title: "AI/ML Deep Learning Intern, IBM Edunet",
       date: "June 2024 – August 2024",
       description: `
@@ -246,15 +238,6 @@ export const Experience = () => {
        Contributed to the design and optimization of AI models for Outlier and Outlier Playground, ensuring enhanced user engagement and functionality.
        Engineered and iteratively refined AI prompts to boost generative model accuracy and relevance, achieving significant performance improvements.
        Conducted data-driven analysis and A/B testing to evaluate and optimize prompt effectiveness, aligning model outputs with user and business objectives.`,
-    },
-    {
-      title: "Research Intern, SRM University AP",
-      date: "June 3rd 2024 – July 31st 2024",
-      description: `
-        • Developing and maintaining web applications using NestJS, MERN stack, and FastAPI 
-          to ensure high performance and scalability.
-        • Contributed to the E15 Project, which focused on designing an integrated tech platform to provide farmers withreal-time market updates, price trends, and innovative techniques to enhance agricultural profitability.
-        • Worked collaboratively within a team under the mentorship of the Head of the Directorate of Entrepreneurship and Innovation.`,
     },
     {
       title: "AI/ML Deep Learning Intern, IBM Edunet",
